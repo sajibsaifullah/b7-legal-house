@@ -1,9 +1,17 @@
-.btn-bg-legal{
+.btn-bg-legal {
     background-color: #B68C5A;
 }
-.bg-legal-img{
+
+.bg-legal-img {
     background-image: url(../images/Rectangle\ 4.png);
     background-size: cover;
     min-height: 75vh;
-    color: #FFFFFF; 
+    color: #FFFFFF;
+}
+
+.carousel-img {
+    width: 70px;
+    height: 70px;
+    border: 3px solid #FFFFFF;
+    border-radius: 50%;
 }
