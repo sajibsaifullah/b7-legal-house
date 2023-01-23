@@ -1,3 +1,9 @@
 .btn-bg-legal{
     background-color: #B68C5A;
 }
+.bg-legal-img{
+    background-image: url(../images/Rectangle\ 4.png);
+    background-size: cover;
+    min-height: 75vh;
+    color: #FFFFFF; 
+}
